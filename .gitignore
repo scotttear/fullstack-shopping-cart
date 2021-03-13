@@ -1,0 +1,5 @@
+.idea/
+node_modules/
+public/build/
+server/build/
+npm-debug.log
